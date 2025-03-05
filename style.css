@@ -6,6 +6,9 @@
   
 
 .About-me {
+  width: 150px;
+  height: 150px;
+  text-algin: center;
   display: flex;
   flex-direction: row;
 }
