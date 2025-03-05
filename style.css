@@ -1,15 +1,22 @@
+.container {
+  width: 80%;
+  height: 600px;
+  margin: 0 auto;
+  border: 10px soild;
+  
+
 .About-me {
   display: flex;
   flex-direction: row;
 }
 
-.visual element{
+.Visual-element {
   display: flex;
   flex-direction: row;
 }
 
 
-.flex-container {
+.Category-section {
   display: flex;
   flex-direction: row;
 }
