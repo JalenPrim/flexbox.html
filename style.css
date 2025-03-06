@@ -7,18 +7,24 @@
 .About-me {
   width: 150px;
   height: 150px;
-  text-algin: center;
+  text-align: center;
   display: flex;
   flex-direction: row;
 }
 
 .Visual-element {
+  width: 150px;
+  height: 150px;
+  text-align: center;
   display: flex;
   flex-direction: row;
 }
 
 
 .Category-section {
+  width: 150px;
+  height: 150px;
+  text-align: center;
   display: flex;
   flex-direction: row;
 }
