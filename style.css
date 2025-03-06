@@ -1,3 +1,9 @@
+body {
+  display: flex;
+  align-items:center;
+  height: 100vh;
+  font-family: "Roboto", sans-serif; 
+
 .container {
   width: 80%;
   height: 600px;
@@ -7,6 +13,7 @@
 .About-me {
   width: 150px;
   height: 150px;
+  background-color: #80aaff;
   text-align: center;
   display: flex;
   flex-direction: row;
@@ -15,6 +22,7 @@
 .Visual-element {
   width: 150px;
   height: 150px;
+  background-color: #80aaff;
   text-align: center;
   display: flex;
   flex-direction: row;
@@ -24,6 +32,7 @@
 .Category-section {
   width: 150px;
   height: 150px;
+  background-color: #80aaff
   text-align: center;
   display: flex;
   flex-direction: row;
